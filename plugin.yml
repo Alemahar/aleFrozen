@@ -1,0 +1,11 @@
+name: aleFrozen
+version: 1.0
+main: com.alemahar.alefrozen.Main
+
+commands:
+     freeze:
+         description:
+          
+permissions:
+     alefrozen.staff:
+         description:
