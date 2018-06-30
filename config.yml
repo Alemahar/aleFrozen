@@ -1,0 +1,24 @@
+#
+#Alemahar | https://github.com/Alemahar#
+#Commands#
+#
+prefix: '&8[&ealeFrozen&8] '
+socialmedia: '&ets3.yourts.net'
+#
+#Player-Freeze#
+#
+onPlayerMove: '&cHaz sido congelado: &7Ingresa a &nts3.yourts.net'
+onPlayerUnfreeze: '&aSe ha removido tu freeze.'
+onPlayerFreeze: '&aHaz sido congelado por el staff &e'
+#
+#Staff-Freeze#
+#
+onStaffUnfreeze: '&aHaz descongelado al jugador.'
+onStaffFreeze: '&aHaz congelado al jugador &e'
+#
+#Error-Commands#
+#
+noPlayerFound: '&cIngresa el nombre de un jugador.'
+noPlayerOnline: '&cEl jugador esta offline.'
+noPermissions: '&cNo tienes permisos.'
+#
